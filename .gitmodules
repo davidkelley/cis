@@ -1,0 +1,3 @@
+[submodule "debian-cis"]
+	path = debian-cis
+	url = https://github.com/ovh/debian-cis
